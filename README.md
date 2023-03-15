@@ -6,6 +6,10 @@ Header
 
 ### Languages and Tools
 
-![Flutter](https://img.shields.io/badge/-HTML-FF8966?style=for-the-badge&logo=HTML)
+![HTML](https://img.shields.io/badge/-HTML-FF8966?style=for-the-badge&logo=HTML)
+
+![CSS](https://img.shields.io/badge/-CSS-8390FA?style=for-the-badge&logo=CSS)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-E5D352?style=for-the-badge&logo=JavaScript)
 
 Follow me
