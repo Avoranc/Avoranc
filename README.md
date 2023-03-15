@@ -12,3 +12,9 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Avoranc)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/sasha.morozovv)
+
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avoranc&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avoranc)](https://github.com/anuraghazra/github-readme-stats)
